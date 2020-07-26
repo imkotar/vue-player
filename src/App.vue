@@ -18,16 +18,16 @@
 a{
   text-decoration: none;
 }
-// .background {
-//   position:fixed;
-//   height:100%;
-//   width: 100%;
-//   background-image: url("./assets/Background@1X.png");
-//   filter: blur(18px);
-//   background-position: center;
-//   background-repeat: no-repeat;
-//   background-size: cover;
-// }
+ .background {
+   position:fixed;
+   height:100%;
+   width: 100%;
+   background-image: url("./assets/Background@1X.png");
+   filter: blur(18px);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
 #player-main {
   overflow: hidden;
   position: relative; 
