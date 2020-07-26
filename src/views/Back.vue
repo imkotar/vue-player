@@ -1,17 +1,17 @@
 <template>
   <div class="home">
-    <PlayerFront/>
+    <PlayerBack/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import PlayerFront from '@/components/PlayerFront/PlayerFront.vue'
+import PlayerBack from '@/components/PlayerBack/PlayerBack.vue'
 
 export default {
-  name: 'Home',
+  name: 'Back',
   components: {
-    PlayerFront
+    PlayerBack
   }
 }
 </script>
