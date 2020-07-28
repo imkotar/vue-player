@@ -1,5 +1,7 @@
 # player-demo
 
+Description: Music Player widget demo. User can choose songs, activate play, loop, repeat, shuffle options. 
+
 ## Project setup
 ```
 npm install
